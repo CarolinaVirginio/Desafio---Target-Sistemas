@@ -1,0 +1,6 @@
+-> Questão 5: Considerando que as lâmpadas não são de LED e esquentam quando ligadas por muito tempo, a solução pode ser a seguinte:
+
+- Ligar o interruptor 1 e deixar a lâmpada ligada por um bom tempo, a fim de deixar que ela esquente. Após isso, desligar esse interruptor.
+- Ligar o interruptor 2 e partir para uma sala qualquer (Sala 1).
+- Nessa sala, verificar se a luz está ligada ou se está quente. Se estiver ligada, ela corresponde ao interruptor 2; se estiver quente, corresponde ao interruptor 1; se estiver desligada e fria, pertence ao interruptor 3.
+- Ir para uma nova sala (Sala 2) e verificar. Utilizando a mesma lógica, será possível saber a qual interruptor essa lâmpada atende. Por eliminação, também sabemos qual interruptor atende a lâmpada da outra sala (Sala 3).

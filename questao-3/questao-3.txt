@@ -1,0 +1,3 @@
+-> Questão 3:
+
+Utilizando a Soma de Gauss ([(1+11)*11]/2), o resultado obtido é 66. Isso ocorre porque, no código, só será feito o incremento enquanto K for menor que 12, ou seja, até K = 11.

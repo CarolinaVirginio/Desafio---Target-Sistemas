@@ -1,0 +1,8 @@
+-> Questão 4:
+
+a) 9 (P.A. com razão 2)
+b) 128 (P.G. com razão 2)
+c) 49 (Números naturais em ordem crescente, elevados ao quadrado)
+d) 100 (Múltiplos de 2 em ordem crescente, elevados ao quadrado)
+e) 13 (Sequência de Fibonacci)
+f) 200 (Números naturais iniciados com a letra 'd', em ordem crescente)
